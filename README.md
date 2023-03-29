@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/ilyasben26/cat_bloc_api/blob/main/GIF.gif)
 # Cat Bloc
 
 An app that uses Bloc for state management and API calls to show random pictures and facts about cats.
